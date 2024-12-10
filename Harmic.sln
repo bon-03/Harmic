@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35521.163 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmic", "Harmic\Harmic.csproj", "{5AE281FE-D8E6-46F9-81D1-23B11D278FB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmic", "Harmic\Harmic.csproj", "{8124EC69-CAAA-44D4-B309-DEC387578607}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5AE281FE-D8E6-46F9-81D1-23B11D278FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5AE281FE-D8E6-46F9-81D1-23B11D278FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5AE281FE-D8E6-46F9-81D1-23B11D278FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5AE281FE-D8E6-46F9-81D1-23B11D278FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8124EC69-CAAA-44D4-B309-DEC387578607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8124EC69-CAAA-44D4-B309-DEC387578607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8124EC69-CAAA-44D4-B309-DEC387578607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8124EC69-CAAA-44D4-B309-DEC387578607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
