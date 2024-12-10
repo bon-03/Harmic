@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Harmic.ViewComponents
 {
-    public class BlogViewComponent : ViewComponent
+    public class BlogController : ViewComponent
     {
         private readonly HarmicContext _context;
 
-        public BlogViewComponent(HarmicContext context)
+        public BlogController(HarmicContext context)
         {
             _context = context;
         }

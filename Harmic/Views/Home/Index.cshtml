@@ -2114,24 +2114,25 @@
         </div>
         <!-- Product Area End Here -->
         <!-- Begin Blog Area -->
-        <div class="blog-area section-space-y-axis-100">
-            <div class="container">
-                <div class="section-title text-center pb-55">
-                    <span class="sub-title text-primary">Read Our</span>
-                    <h2 class="title mb-0">Latest Blog</h2>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="swiper-container blog-slider">
-                            <div class="swiper-wrapper">
-                                @await Component.InvokeAsync("Blog")
-                            </div>
-                            <!-- Add Arrows -->
-                            <div class="swiper-button-next"></div>
-                            <div class="swiper-button-prev"></div>
-                        </div>
+<div class="blog-area section-space-y-axis-100">
+    <div class="container">
+        <div class="section-title text-center pb-55">
+            <span class="sub-title text-primary">Read Our</span>
+            <h2 class="title mb-0">Latest Blog</h2>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="swiper-container blog-slider">
+                    <div class="swiper-wrapper">
+                        @await Component.InvokeAsync("Blog")
                     </div>
+                    <!-- Add Arrows -->
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
                 </div>
             </div>
         </div>
+    </div>
+</div>
+
         <!-- Blog Area End Here -->
